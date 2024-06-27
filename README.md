@@ -1,5 +1,6 @@
 # Simulating-Radioactive-Speciation-
 Simulating the Chemical Speciation of Radioactive Contaminants at Elevated Temperatures //Alberto Rosas, DR. Ruth Tinnacher
+
 Introduction
 Thermochemical data is essential for understanding chemical reactions and processes, especially those involving radioactive elements. To conduct effective research in this area, it is crucial to identify reliable data sources, efficiently extract relevant information, and analyze the data comprehensively. This essay outlines the methodical approach I adopted for my research on thermochemical data, focusing on the selection of databases, data extraction, analysis, and simulation preparation.
 
